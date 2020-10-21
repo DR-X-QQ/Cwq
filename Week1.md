@@ -10,7 +10,7 @@ mPS：有任何不懂的问题随时来问
 
 3.百度学会VC6.0这个软件是如何调试的。
 
-作业：https://github.com/Sette-Tyx/Cwq/blob/master/images/image-2020102020032164.png
+作业：![image]https://github.com/Sette-Tyx/Cwq/blob/master/images/image-2020102020032164.png
 
 
 
