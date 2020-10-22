@@ -8,7 +8,7 @@ PS：有任何不懂的问题随时来问
 
 2.完成我给你指定的作业。
 
-3.百度学会VC6.0这个软件是如何调试的。
+3.百度学会VS2019这个软件是如何调试的。
 
 作业：
 
@@ -19,6 +19,8 @@ PDF p109 18-24
 ### 英语
 
 1.文章翻译（你可以去查单个单词的意思，但是你不要直接给我百度翻译就翻译出来了，我看得出来的，很明显的）
+
+作业：Online dictionaries are becoming incresingly popular. More and more students consults online diggerent dictionaries in their computers or other digital ways rather than use a traditional cumbersome paper dictionary through looking up a word from millions of vocabularies. 
 
 
 
