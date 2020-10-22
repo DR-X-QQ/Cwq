@@ -12,9 +12,7 @@ PS：有任何不懂的问题随时来问
 
 作业：
 
-![image](https://github.com/Sette-Tyx/Cwq/blob/master/images/2020-10-21%207.34.15.png)
-
-![image](https://github.com/Sette-Tyx/Cwq/blob/master/images/2020-10-21%207.34.40.png)
+PDF p109 18-24
 
 
 
