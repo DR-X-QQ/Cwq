@@ -12,9 +12,9 @@ PS：有任何不懂的问题随时来问
 
 作业：
 
-![image](https://github.com/Sette-Tyx/Cwq/blob/master/images/%E6%88%AA%E5%B1%8F2020-10-21%20%E4%B8%8B%E5%8D%887.34.15.png)
+![image](https://github.com/Sette-Tyx/Cwq/blob/master/images/2020-10-21%207.34.15.png)
 
-![image](https://github.com/Sette-Tyx/Cwq/blob/master/images/%E6%88%AA%E5%B1%8F2020-10-21%20%E4%B8%8B%E5%8D%887.34.40.png)
+![image](https://github.com/Sette-Tyx/Cwq/blob/master/images/2020-10-21%207.34.40.png)
 
 
 
